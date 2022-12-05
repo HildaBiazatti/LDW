@@ -1,4 +1,4 @@
-# LDW
+# LDW (Laboratório de Desenvolvimento Web)
 API do projeto Academia de musculação
 
 ## Tecnologias utilizadas:
